@@ -1,5 +1,5 @@
 # Project Description
-Develop mockup «Minima» PSD to HTML/CSS.  Mockup take from the resource [psd-stock.ru](http://psd-stock.ru/shablony-dlja-sajtov/clean-minimalistic-psd-template)
+Develop mockup «Minima» PSD to HTML/CSS.  Mockup in PSD take from the resource [psd-stock.ru](http://psd-stock.ru/shablony-dlja-sajtov/clean-minimalistic-psd-template)
 
 ![screenshot of web template](https://www.pelfusion.com/wp-content/uploads/2014/03/Minimal-PSD-Template.jpg)
 
